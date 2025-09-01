@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
            tailwindcss(),
   ],
-  base:"/satva-website"
+  base:"/satva-website/"
 })
